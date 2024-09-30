@@ -15,7 +15,7 @@ function Contact() {
         <span className="section_subtitle">Contact Me</span>
 
         <div className="contact_container container grid" data-aos="fade-right"     
-          data-aos-offset="200"  >
+          data-aos-offset="300"  >
             <div className="contact_content">
                 <div className="contact_title">Talk to me</div>
 
